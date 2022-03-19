@@ -1,0 +1,15 @@
+C:\repos\ProgramCS\ProgramCS\bin\Debug\net6.0\ProgramCS.exe
+C:\repos\ProgramCS\ProgramCS\bin\Debug\net6.0\ProgramCS.deps.json
+C:\repos\ProgramCS\ProgramCS\bin\Debug\net6.0\ProgramCS.runtimeconfig.json
+C:\repos\ProgramCS\ProgramCS\bin\Debug\net6.0\ProgramCS.dll
+C:\repos\ProgramCS\ProgramCS\bin\Debug\net6.0\ProgramCS.pdb
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.csproj.AssemblyReference.cache
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.AssemblyInfoInputs.cache
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.AssemblyInfo.cs
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.csproj.CoreCompileInputs.cache
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.dll
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\refint\ProgramCS.dll
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.pdb
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ProgramCS.genruntimeconfig.cache
+C:\repos\ProgramCS\ProgramCS\obj\Debug\net6.0\ref\ProgramCS.dll
