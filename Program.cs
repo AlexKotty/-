@@ -9,7 +9,7 @@
             float health;
             byte mana;
             short stamina;
-            sbyte heroGold
+            sbyte heroGold;
             string heroMail;
             double getExp;
             bool exitGame;
