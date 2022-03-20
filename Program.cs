@@ -7,11 +7,16 @@
 
             int armour;
             float health;
-            Console.WriteLine("Hello Stranger");
+            byte mana;
+            short stamina;
+            sbyte heroGold
+            string heroMail;
+            double getExp;
+            bool exitGame;
+            ushort loseExp;
+            char playerSign;
 
-
-
-
+                
 
         }
     }
